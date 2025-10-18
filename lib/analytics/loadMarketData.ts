@@ -22,8 +22,7 @@ export interface DeveloperData {
 
 export interface PriceTrend {
   month: string;
-  price: number;
-  area: string;
+  [key: string]: number | string; // Динамические ключи для районов
 }
 
 export function getMarketOverview(): MarketOverview {
@@ -39,7 +38,7 @@ export function getDeveloperData(): DeveloperData[] {
 }
 
 export function getPriceTrends(): PriceTrend[] {
-  return marketData.priceTrends;
+  return marketData.priceTrends as PriceTrend[];
 }
 
 export function getVolumeData() {
