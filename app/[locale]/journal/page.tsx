@@ -1,8 +1,10 @@
 import { useTranslations } from 'next-intl';
+import { setRequestLocale } from 'next-intl/server';
 import Link from 'next/link';
 import Image from 'next/image';
 
 export default function JournalPage({ params: { locale } }: { params: { locale: string } }) {
+  setRequestLocale(locale);
   const t = useTranslations('journal');
 
   const articles = [

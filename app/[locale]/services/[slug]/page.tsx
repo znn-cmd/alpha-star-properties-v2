@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { useTranslations } from 'next-intl';
+import { setRequestLocale } from 'next-intl/server';
 import LeadForm from '@/components/LeadForm';
 import { HiCheckCircle } from 'react-icons/hi';
 
@@ -14,6 +15,7 @@ export default function ServiceDetailPage({
 }: {
   params: { locale: string; slug: string };
 }) {
+  setRequestLocale(locale);
   const t = useTranslations('services');
 
   if (!serviceKeys.includes(slug)) {

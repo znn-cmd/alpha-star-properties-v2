@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
+import { setRequestLocale } from 'next-intl/server';
 import DownloadPDFButton from '@/components/DownloadPDFButton';
 
 const articles = [
@@ -18,6 +19,7 @@ export default function ArticlePage({
 }: {
   params: { locale: string; slug: string };
 }) {
+  setRequestLocale(locale);
   const t = useTranslations('journal');
 
   if (!articles.find((a) => a.slug === slug)) {

@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { useTranslations } from 'next-intl';
+import { setRequestLocale } from 'next-intl/server';
 import PropertyGallery from '@/components/PropertyGallery';
 import PropertyCard from '@/components/PropertyCard';
 import LeadForm from '@/components/LeadForm';
@@ -20,6 +21,7 @@ export default function PropertyDetailPage({
 }: {
   params: { locale: string; slug: string };
 }) {
+  setRequestLocale(locale);
   const t = useTranslations('property');
 
   const property = properties.find((p) => p.slug === slug);

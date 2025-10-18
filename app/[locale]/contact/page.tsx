@@ -1,8 +1,10 @@
 import { useTranslations } from 'next-intl';
+import { setRequestLocale } from 'next-intl/server';
 import LeadForm from '@/components/LeadForm';
 import { FaWhatsapp, FaTelegram, FaEnvelope, FaPhone, FaMapMarkerAlt, FaClock } from 'react-icons/fa';
 
 export default function ContactPage({ params: { locale } }: { params: { locale: string } }) {
+  setRequestLocale(locale);
   const t = useTranslations('contact');
 
   return (

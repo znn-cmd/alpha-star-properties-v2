@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { setRequestLocale } from 'next-intl/server';
 import AnalyticsDashboard from '@/components/AnalyticsDashboard';
 import DownloadPDFButton from '@/components/DownloadPDFButton';
 import {
@@ -10,6 +11,7 @@ import {
 } from '@/lib/analytics/loadMarketData';
 
 export default function AnalyticsPage({ params: { locale } }: { params: { locale: string } }) {
+  setRequestLocale(locale);
   const t = useTranslations('analytics');
 
   const overview = getMarketOverview();

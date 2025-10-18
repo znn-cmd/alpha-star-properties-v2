@@ -1,8 +1,10 @@
 import { useTranslations } from 'next-intl';
+import { setRequestLocale } from 'next-intl/server';
 import Link from 'next/link';
 import { HiHome, HiKey, HiCash, HiTrendingUp, HiLightBulb } from 'react-icons/hi';
 
 export default function ServicesPage({ params: { locale } }: { params: { locale: string } }) {
+  setRequestLocale(locale);
   const t = useTranslations('services');
   const tCommon = useTranslations('common');
 
