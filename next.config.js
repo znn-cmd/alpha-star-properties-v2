@@ -23,9 +23,10 @@ const nextConfig = {
       // },
     ],
   },
-  experimental: {
-    typedRoutes: true,
-  },
+  // Отключено для избежания TypeScript ошибок при деплое
+  // experimental: {
+  //   typedRoutes: true,
+  // },
 };
 
 module.exports = withNextIntl(nextConfig);
