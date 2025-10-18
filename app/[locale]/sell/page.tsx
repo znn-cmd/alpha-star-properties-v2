@@ -831,10 +831,15 @@ function InteractiveStepsSection() {
         <div className="grid lg:grid-cols-2 gap-0">
           {/* Image Section */}
           <div className="relative h-96 lg:h-[500px]">
-            <img
-              src={steps[activeStep].image}
-              alt={steps[activeStep].title}
-              className="w-full h-full object-cover"
+            <div 
+              style={{
+                backgroundImage: `url(${steps[activeStep].image})`,
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
+              }}
+              className="w-full h-full"
+              role="img"
+              aria-label={steps[activeStep].title}
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
           </div>
