@@ -1,0 +1,238 @@
+{
+  "nav": {
+    "buy": "Buy",
+    "rent": "Rent",
+    "sell": "Sell",
+    "services": "Services",
+    "journal": "Journal",
+    "analytics": "Analytics",
+    "about": "About",
+    "team": "Team",
+    "careers": "Careers",
+    "contact": "Contact",
+    "writeUs": "Write to Us",
+    "requestCall": "Request a Call"
+  },
+  "home": {
+    "hero": {
+      "title": "Premium Real Estate Agency in Dubai",
+      "subtitle": "Exclusive premium property offers with personal support",
+      "cta": "Get Consultation"
+    },
+    "highlights": {
+      "title": "Highlights of the Season",
+      "subtitle": "Best properties in Dubai"
+    },
+    "exclusive": {
+      "title": "Exclusive Offers",
+      "subtitle": "Unique properties for discerning clients"
+    },
+    "whyUs": {
+      "title": "Why Choose Alpha Star Properties",
+      "expertise": {
+        "title": "Market Expertise",
+        "description": "Over 10 years of experience in Dubai's premium real estate market"
+      },
+      "personal": {
+        "title": "Personal Approach",
+        "description": "Individual manager for each client"
+      },
+      "exclusive": {
+        "title": "Exclusive Properties",
+        "description": "Access to off-market listings from developers"
+      },
+      "support": {
+        "title": "Full Support",
+        "description": "From first meeting to receiving keys"
+      }
+    },
+    "about": {
+      "title": "About Alpha Star Properties",
+      "description": "We specialize in premium real estate in Dubai, offering a personal approach and professional support at all stages of the transaction.",
+      "properties": "Properties in Portfolio",
+      "clients": "Happy Clients",
+      "years": "Years on Market",
+      "countries": "Countries"
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Experienced Dubai real estate specialists"
+    },
+    "areas": {
+      "title": "Dubai Areas",
+      "subtitle": "Popular investment locations"
+    },
+    "lifestyle": {
+      "title": "Lifestyle",
+      "sea": "Seaside",
+      "golf": "Golf Community",
+      "marina": "Marina",
+      "city": "City Center"
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "subtitle": "What our clients say"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions"
+    },
+    "finalCta": {
+      "title": "Get Free Expert Consultation",
+      "subtitle": "We'll answer all questions and find the perfect option",
+      "button": "Contact Us"
+    }
+  },
+  "catalog": {
+    "buy": {
+      "title": "Real Estate for Sale in Dubai",
+      "description": "Exclusive offers from leading developers"
+    },
+    "rent": {
+      "title": "Real Estate for Rent in Dubai",
+      "description": "Best options for short-term and long-term rental"
+    },
+    "filters": {
+      "type": "Property Type",
+      "bedrooms": "Bedrooms",
+      "location": "Location",
+      "price": "Price",
+      "area": "Area",
+      "apply": "Apply",
+      "reset": "Reset"
+    },
+    "showMore": "Show More",
+    "noResults": "No Results",
+    "results": "Properties Found"
+  },
+  "property": {
+    "price": "Price",
+    "area": "Area",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "location": "Location",
+    "developer": "Developer",
+    "type": "Type",
+    "status": "Status",
+    "features": "Features",
+    "description": "Description",
+    "contact": "Contact Broker",
+    "downloadPdf": "Download PDF",
+    "similar": "Similar Properties",
+    "viewDetails": "View Details"
+  },
+  "analytics": {
+    "title": "Dubai Real Estate Market Analytics",
+    "description": "Current statistics and market trends",
+    "avgPrice": "Average Price per sqm",
+    "volume": "Sales Volume",
+    "growth": "Year-over-Year Growth",
+    "priceChart": "Price Trends by Area",
+    "volumeChart": "Transaction Volume",
+    "topDevelopers": "Top Developers",
+    "topAreas": "Top Areas",
+    "downloadReport": "Download Report"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To make the process of buying real estate in Dubai simple, transparent and comfortable for our clients."
+    },
+    "values": {
+      "title": "Our Values",
+      "trust": "Trust",
+      "excellence": "Excellence",
+      "innovation": "Innovation"
+    },
+    "numbers": {
+      "title": "Alpha Star in Numbers"
+    },
+    "joinUs": "Join Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "buy": {
+      "title": "Property Purchase",
+      "description": "Full transaction support from selection to receiving keys"
+    },
+    "rent": {
+      "title": "Rental",
+      "description": "Search and arrangement of short-term and long-term rentals"
+    },
+    "sell": {
+      "title": "Property Sale",
+      "description": "Maximum price and fast sale of your property"
+    },
+    "investment": {
+      "title": "Investment",
+      "description": "Consultation on real estate investments in Dubai"
+    },
+    "consultation": {
+      "title": "Consultation",
+      "description": "Expert market assessment and personal recommendations"
+    },
+    "learnMore": "Learn More"
+  },
+  "journal": {
+    "title": "Journal",
+    "subtitle": "Articles, news and real estate market analytics",
+    "readMore": "Read More",
+    "downloadArticle": "Download Article",
+    "author": "Author",
+    "published": "Published"
+  },
+  "careers": {
+    "title": "Careers at Alpha Star Properties",
+    "subtitle": "Join the team of professionals",
+    "openPositions": "Open Positions",
+    "apply": "Submit Resume",
+    "noVacancies": "No open positions at the moment"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'll answer all your questions",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "send": "Send",
+      "sending": "Sending...",
+      "success": "Thank you! We'll contact you soon.",
+      "error": "An error occurred. Please try again later."
+    },
+    "info": {
+      "address": "Address",
+      "addressValue": "Dubai, UAE",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours",
+      "hoursValue": "Mon-Fri: 9:00 AM - 6:00 PM"
+    }
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Subscribe to Newsletter",
+      "placeholder": "Your email",
+      "button": "Subscribe"
+    },
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 Alpha Star Properties. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading...",
+    "aed": "AED",
+    "sqm": "sqm",
+    "from": "from"
+  }
+}
+

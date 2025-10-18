@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "Sell Your Property in Dubai | Alpha Star Properties",
+    "description": "Free valuation, professional marketing and full transaction support by Alpha Star experts."
+  },
+  "hero": {
+    "title": "Sell Your Property in Dubai with Alpha Star",
+    "subtitle": "Get a free valuation and personalized transaction support.",
+    "cta_valuation": "Get Valuation",
+    "cta_contact": "Contact Broker"
+  },
+  "principles": {
+    "title": "Our Work Principles",
+    "items": [
+      {
+        "title": "Transparency",
+        "description": "Full openness at every stage of the transaction."
+      },
+      {
+        "title": "Benefit",
+        "description": "We sell your property at the maximum market price."
+      },
+      {
+        "title": "Rapidity",
+        "description": "Buyers and investors are already waiting for your properties."
+      }
+    ]
+  },
+  "advantages": {
+    "title": "Why Choose Us",
+    "items": [
+      {
+        "title": "Personal Consultation",
+        "description": "Individual approach to each client and property"
+      },
+      {
+        "title": "Accurate Valuation",
+        "description": "Professional assessment based on market data"
+      },
+      {
+        "title": "Tailored Marketing",
+        "description": "We create unique promotion strategies"
+      },
+      {
+        "title": "Qualified Buyers",
+        "description": "Direct access to verified investors"
+      },
+      {
+        "title": "Transparent Process",
+        "description": "Full control and reporting at all stages"
+      }
+    ]
+  },
+  "marketing": {
+    "title": "Visual Marketing",
+    "subtitle": "We create visual stories that sell.",
+    "items": [
+      {
+        "title": "Video",
+        "description": "Showcasing the atmosphere and emotions of your property."
+      },
+      {
+        "title": "Photography",
+        "description": "Premium angles and lighting that highlight advantages."
+      },
+      {
+        "title": "3D & Renders",
+        "description": "Detailed tours and visualization for investors."
+      }
+    ],
+    "cta": "View Example"
+  },
+  "valuation": {
+    "title": "Find Out Your Property Value",
+    "subtitle": "Get a professional valuation within 24 hours",
+    "form": {
+      "propertyType": "Property Type",
+      "propertyTypePlaceholder": "Select type",
+      "location": "Location",
+      "locationPlaceholder": "E.g., Downtown Dubai",
+      "area": "Area (sqm)",
+      "areaPlaceholder": "Enter area",
+      "name": "Your Name",
+      "namePlaceholder": "Enter name",
+      "phone": "Phone",
+      "phonePlaceholder": "+971 XX XXX XXXX",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "submit": "Get Valuation",
+      "submitting": "Sending...",
+      "success": "Thank you! We'll contact you within 24 hours.",
+      "error": "An error occurred. Please try again later."
+    },
+    "types": [
+      "Apartment",
+      "Villa",
+      "Townhouse",
+      "Penthouse",
+      "Studio"
+    ]
+  },
+  "quickConsult": {
+    "title": "Quick Consultation",
+    "subtitle": "Fill out the form — an Alpha Star expert will contact you within 30 minutes.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "phone": "Phone",
+      "phonePlaceholder": "+971 XX XXX XXXX",
+      "submit": "Send",
+      "submitting": "Sending...",
+      "success": "Thank you! We'll contact you within 30 minutes.",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "showcase": {
+    "title": "How We Sell",
+    "subtitle": "Your property becomes part of the Alpha Star brand.",
+    "items": [
+      {
+        "title": "Video",
+        "description": "Professional drone and interior videography"
+      },
+      {
+        "title": "Photography",
+        "description": "Premium photo shoot with best angles"
+      },
+      {
+        "title": "Media",
+        "description": "Publications, catalogs and social media promotion"
+      }
+    ],
+    "cta": "View Example"
+  },
+  "steps": {
+    "title": "8 Steps to Success",
+    "subtitle": "Full support at every stage",
+    "items": [
+      {
+        "title": "Consultation",
+        "description": "Free meeting with a real estate expert to discuss your goals and opportunities.",
+        "contentTitle": "Personal Consultation",
+        "contentText": "Free meeting with a real estate expert to discuss your goals and opportunities. We'll study your property and provide professional recommendations."
+      },
+      {
+        "title": "Valuation",
+        "description": "Professional property assessment based on current market data and analytics.",
+        "contentTitle": "Professional Valuation",
+        "contentText": "Professional property assessment based on current market data and analytics. We determine the optimal price for quick sale."
+      },
+      {
+        "title": "Presentation",
+        "description": "Creating property presentation with all advantages and unique characteristics.",
+        "contentTitle": "Creating Presentation",
+        "contentText": "Creating property presentation with all advantages and unique characteristics. Professional photos and videos for maximum impact."
+      },
+      {
+        "title": "Marketing",
+        "description": "Launching advertising campaign on all relevant platforms and buyer databases.",
+        "contentTitle": "Individual Marketing",
+        "contentText": "Launching advertising campaign on all relevant platforms and buyer databases. We create unique promotion strategy for your property."
+      },
+      {
+        "title": "Viewings",
+        "description": "Organizing and conducting viewings for qualified buyers and investors.",
+        "contentTitle": "Organizing Viewings",
+        "contentText": "Organizing and conducting viewings for qualified buyers and investors. We ensure maximum convenience for all participants."
+      },
+      {
+        "title": "Reports",
+        "description": "Regular reports on sale progress, feedback and market dynamics.",
+        "contentTitle": "Regular Reports",
+        "contentText": "Regular reports on sale progress, feedback and market dynamics. Full transparency of the process at every stage."
+      },
+      {
+        "title": "Transaction",
+        "description": "Conducting negotiations, preparing documents and registering transaction at Dubai Land Department.",
+        "contentTitle": "Transaction Management",
+        "contentText": "Conducting negotiations, preparing documents and registering transaction at Dubai Land Department. We accompany the entire process to completion."
+      },
+      {
+        "title": "Support",
+        "description": "Post-sale support: assistance with property transfer and post-sale consultations.",
+        "contentTitle": "Post-sale Support",
+        "contentText": "Post-sale support: assistance with property transfer and post-sale consultations. We remain in touch with you."
+      }
+    ],
+    "stepCounter": "Step {current} of {total}"
+  },
+  "analytics": {
+    "title": "Market Analytics",
+    "subtitle": "Up-to-date data for decision making",
+    "avgPrice": "Average Price per sqm",
+    "cta": "View Full Analytics"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "When is the best time to sell property in Dubai?",
+        "answer": "Dubai's real estate market is active year-round, however peak periods are October-May when more buyers and investors arrive in the emirate. We recommend starting sale preparation in advance to enter the market at the optimal time."
+      },
+      {
+        "question": "Can I sell property with a tenant?",
+        "answer": "Yes, you can. Properties with current tenants are often attractive to investors as they immediately receive income. We'll help properly arrange such a transaction considering all tenant rights and buyer requirements."
+      },
+      {
+        "question": "How long does the sale take?",
+        "answer": "On average, from listing the property to completing the transaction takes 2-4 months. This depends on property type, price, location and market conditions. Exclusive properties can sell faster with our buyer database."
+      },
+      {
+        "question": "Are there taxes when selling?",
+        "answer": "There is no capital gains tax in UAE when selling property. Main costs are agency commission (usually 2% of value) and DLD government fee (4% of transaction value), which is split between buyer and seller."
+      },
+      {
+        "question": "How to determine a fair price?",
+        "answer": "We conduct comprehensive analysis: study recent sales of similar properties, current market offers, consider property condition, location, views and infrastructure. Based on this data, we propose optimal price that will attract buyers and ensure profitable sale."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Ready to Sell Your Property?",
+    "subtitle": "Get a free consultation and accurate valuation.",
+    "cta_valuation": "Get Valuation",
+    "cta_contact": "Contact Broker"
+  }
+}
+

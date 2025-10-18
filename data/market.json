@@ -1,0 +1,161 @@
+{
+  "overview": {
+    "avgPrice": 15420,
+    "volume": 45320,
+    "growth": 12.5,
+    "lastUpdated": "2024-10-15"
+  },
+  "areas": [
+    {
+      "name": "Downtown Dubai",
+      "avgPrice": 22500,
+      "volume": 8500,
+      "growth": 15.2
+    },
+    {
+      "name": "Dubai Marina",
+      "avgPrice": 18900,
+      "volume": 12300,
+      "growth": 11.8
+    },
+    {
+      "name": "Palm Jumeirah",
+      "avgPrice": 28700,
+      "volume": 3200,
+      "growth": 18.5
+    },
+    {
+      "name": "Business Bay",
+      "avgPrice": 14200,
+      "volume": 9800,
+      "growth": 9.3
+    },
+    {
+      "name": "Jumeirah Beach Residence",
+      "avgPrice": 17600,
+      "volume": 7400,
+      "growth": 13.1
+    },
+    {
+      "name": "Dubai Hills Estate",
+      "avgPrice": 13800,
+      "volume": 5600,
+      "growth": 16.7
+    },
+    {
+      "name": "Arabian Ranches",
+      "avgPrice": 11200,
+      "volume": 4100,
+      "growth": 8.9
+    },
+    {
+      "name": "Dubai South",
+      "avgPrice": 7500,
+      "volume": 6200,
+      "growth": 22.3
+    }
+  ],
+  "developers": [
+    {
+      "name": "Emaar Properties",
+      "properties": 2840,
+      "volume": 18500
+    },
+    {
+      "name": "Damac Properties",
+      "properties": 1920,
+      "volume": 12300
+    },
+    {
+      "name": "Nakheel",
+      "properties": 1560,
+      "volume": 9800
+    },
+    {
+      "name": "Dubai Properties",
+      "properties": 1340,
+      "volume": 8200
+    },
+    {
+      "name": "Meraas",
+      "properties": 980,
+      "volume": 6700
+    },
+    {
+      "name": "Sobha Realty",
+      "properties": 780,
+      "volume": 5100
+    },
+    {
+      "name": "Azizi Developments",
+      "properties": 1120,
+      "volume": 4900
+    },
+    {
+      "name": "Select Group",
+      "properties": 640,
+      "volume": 3800
+    }
+  ],
+  "priceTrends": [
+    {
+      "month": "Jan",
+      "Downtown Dubai": 21200,
+      "Dubai Marina": 17800,
+      "Palm Jumeirah": 26500,
+      "Business Bay": 13500
+    },
+    {
+      "month": "Feb",
+      "Downtown Dubai": 21500,
+      "Dubai Marina": 18000,
+      "Palm Jumeirah": 27000,
+      "Business Bay": 13700
+    },
+    {
+      "month": "Mar",
+      "Downtown Dubai": 21800,
+      "Dubai Marina": 18300,
+      "Palm Jumeirah": 27500,
+      "Business Bay": 13900
+    },
+    {
+      "month": "Apr",
+      "Downtown Dubai": 22000,
+      "Dubai Marina": 18500,
+      "Palm Jumeirah": 28000,
+      "Business Bay": 14000
+    },
+    {
+      "month": "May",
+      "Downtown Dubai": 22200,
+      "Dubai Marina": 18600,
+      "Palm Jumeirah": 28300,
+      "Business Bay": 14100
+    },
+    {
+      "month": "Jun",
+      "Downtown Dubai": 22400,
+      "Dubai Marina": 18800,
+      "Palm Jumeirah": 28600,
+      "Business Bay": 14200
+    },
+    {
+      "month": "Jul",
+      "Downtown Dubai": 22500,
+      "Dubai Marina": 18900,
+      "Palm Jumeirah": 28700,
+      "Business Bay": 14200
+    }
+  ],
+  "volumeData": [
+    { "month": "Jan", "volume": 5200 },
+    { "month": "Feb", "volume": 5800 },
+    { "month": "Mar", "volume": 6400 },
+    { "month": "Apr", "volume": 6900 },
+    { "month": "May", "volume": 7200 },
+    { "month": "Jun", "volume": 6800 },
+    { "month": "Jul", "volume": 7000 }
+  ]
+}
+

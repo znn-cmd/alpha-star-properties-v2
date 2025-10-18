@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1",
+    "slug": "luxury-penthouse-downtown",
+    "title": {
+      "en": "Luxury Penthouse in Downtown Dubai",
+      "ru": "Роскошный пентхаус в Downtown Dubai"
+    },
+    "description": {
+      "en": "An exceptional penthouse offering breathtaking views of the Burj Khalifa and Dubai Fountain. This residence features premium finishes, floor-to-ceiling windows, and a spacious terrace perfect for entertaining.",
+      "ru": "Исключительный пентхаус с захватывающим видом на Бурдж-Халифа и фонтан Дубая. Эта резиденция отличается премиальной отделкой, панорамными окнами от пола до потолка и просторной террасой, идеальной для развлечений."
+    },
+    "price": 8500000,
+    "area": 420,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "location": "Downtown Dubai",
+    "developer": "Emaar Properties",
+    "type": "Penthouse",
+    "status": "Ready",
+    "category": "buy",
+    "images": [
+      "/images/placeholders/property.svg",
+      "/images/placeholders/property.svg"
+    ],
+    "features": [
+      "Private Pool",
+      "Smart Home System",
+      "Gym Access",
+      "24/7 Concierge",
+      "Covered Parking (3 spaces)"
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "beachfront-villa-palm",
+    "title": {
+      "en": "Beachfront Villa on Palm Jumeirah",
+      "ru": "Вилла на берегу моря на Palm Jumeirah"
+    },
+    "description": {
+      "en": "Stunning beachfront villa offering direct beach access and panoramic sea views. Features a private pool, landscaped garden, and contemporary architecture.",
+      "ru": "Потрясающая вилла на берегу моря с прямым выходом на пляж и панорамным видом на море. Включает частный бассейн, ландшафтный сад и современную архитектуру."
+    },
+    "price": 15000000,
+    "area": 850,
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "location": "Palm Jumeirah",
+    "developer": "Nakheel",
+    "type": "Villa",
+    "status": "Ready",
+    "category": "buy",
+    "images": [
+      "/images/placeholders/property.svg",
+      "/images/placeholders/property.svg"
+    ],
+    "features": [
+      "Private Beach Access",
+      "Private Pool",
+      "Landscaped Garden",
+      "Maid's Room",
+      "Covered Parking (4 spaces)",
+      "Home Cinema"
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "modern-apartment-marina",
+    "title": {
+      "en": "Modern Apartment in Dubai Marina",
+      "ru": "Современная квартира в Dubai Marina"
+    },
+    "description": {
+      "en": "Contemporary 2-bedroom apartment with stunning marina views. Features modern finishes, open-plan living, and access to world-class amenities.",
+      "ru": "Современная 2-комнатная квартира с потрясающим видом на марину. Включает современную отделку, открытую планировку и доступ к первоклассным удобствам."
+    },
+    "price": 2100000,
+    "area": 145,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "location": "Dubai Marina",
+    "developer": "Emaar Properties",
+    "type": "Apartment",
+    "status": "Ready",
+    "category": "buy",
+    "images": [
+      "/images/placeholders/property.svg",
+      "/images/placeholders/property.svg"
+    ],
+    "features": [
+      "Marina View",
+      "Gym Access",
+      "Swimming Pool",
+      "24/7 Security",
+      "Covered Parking"
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "studio-business-bay-rent",
+    "title": {
+      "en": "Furnished Studio in Business Bay",
+      "ru": "Меблированная студия в Business Bay"
+    },
+    "description": {
+      "en": "Fully furnished studio apartment perfect for professionals. Located in the heart of Business Bay with easy access to metro and Sheikh Zayed Road.",
+      "ru": "Полностью меблированная студия, идеальная для профессионалов. Расположена в самом центре Business Bay с легким доступом к метро и Sheikh Zayed Road."
+    },
+    "price": 45000,
+    "area": 42,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "location": "Business Bay",
+    "developer": "Damac Properties",
+    "type": "Studio",
+    "status": "Available",
+    "category": "rent",
+    "images": [
+      "/images/placeholders/property.svg",
+      "/images/placeholders/property.svg"
+    ],
+    "features": [
+      "Fully Furnished",
+      "Balcony",
+      "Gym Access",
+      "Pool",
+      "Parking"
+    ]
+  },
+  {
+    "id": "5",
+    "slug": "golf-villa-hills-estate",
+    "title": {
+      "en": "Golf Course Villa in Dubai Hills Estate",
+      "ru": "Вилла на гольф-поле в Dubai Hills Estate"
+    },
+    "description": {
+      "en": "Luxurious villa overlooking the 18-hole championship golf course. Features spacious interiors, private garden, and premium finishes throughout.",
+      "ru": "Роскошная вилла с видом на 18-луночное чемпионское гольф-поле. Включает просторные интерьеры, частный сад и премиальную отделку."
+    },
+    "price": 6800000,
+    "area": 520,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "location": "Dubai Hills Estate",
+    "developer": "Emaar Properties",
+    "type": "Villa",
+    "status": "Ready",
+    "category": "buy",
+    "images": [
+      "/images/placeholders/property.svg",
+      "/images/placeholders/property.svg"
+    ],
+    "features": [
+      "Golf Course View",
+      "Private Pool",
+      "Private Garden",
+      "Maid's Room",
+      "Covered Parking (3 spaces)",
+      "Golf Club Membership"
+    ]
+  },
+  {
+    "id": "6",
+    "slug": "apartment-jbr-rent",
+    "title": {
+      "en": "Spacious 3BR Apartment in JBR",
+      "ru": "Просторная 3-комнатная квартира в JBR"
+    },
+    "description": {
+      "en": "Beautiful 3-bedroom apartment with partial sea views in Jumeirah Beach Residence. Walking distance to the beach, restaurants, and The Walk.",
+      "ru": "Прекрасная 3-комнатная квартира с частичным видом на море в Jumeirah Beach Residence. В пешей доступности от пляжа, ресторанов и The Walk."
+    },
+    "price": 165000,
+    "area": 185,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "location": "Jumeirah Beach Residence",
+    "developer": "Dubai Properties",
+    "type": "Apartment",
+    "status": "Available",
+    "category": "rent",
+    "images": [
+      "/images/placeholders/property.svg",
+      "/images/placeholders/property.svg"
+    ],
+    "features": [
+      "Partial Sea View",
+      "Beach Access",
+      "Gym & Pool",
+      "Balcony",
+      "Covered Parking (2 spaces)"
+    ]
+  }
+]
+
