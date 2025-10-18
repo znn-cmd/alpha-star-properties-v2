@@ -1,5 +1,5 @@
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages } from 'next-intl/server';
+import { getMessages, setRequestLocale } from 'next-intl/server';
 import { Inter } from 'next/font/google';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -24,6 +24,9 @@ export default async function LocaleLayout({
     notFound();
   }
 
+  // Enable static rendering
+  setRequestLocale(locale);
+  
   const messages = await getMessages();
 
   return (

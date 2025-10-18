@@ -3,6 +3,8 @@ import Image from 'next/image';
 import TeamCard from '@/components/TeamCard';
 import { HiShieldCheck, HiLightningBolt, HiStar } from 'react-icons/hi';
 
+export const dynamic = 'force-dynamic';
+
 export default function AboutPage({ params: { locale } }: { params: { locale: string } }) {
   const t = useTranslations('about');
   const tHome = useTranslations('home');
