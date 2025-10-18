@@ -10,7 +10,7 @@ export default function NotFound() {
           The page you&apos;re looking for doesn&apos;t exist.
         </p>
         <Link
-          href="/"
+          href="/ru"
           className="inline-block px-8 py-3 bg-primary text-white rounded-lg hover:bg-secondary transition-colors font-semibold"
         >
           Go Home
